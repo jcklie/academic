@@ -18,15 +18,15 @@ Every Ludum Dare, a topic is selected. The topic this time was *"Your life is cu
 
 With this idea, I went to the home for the weekend in the university. I met a new friend there, *tomatenbrei* and we talked about the topic, what we prepared and more. *mbugert* then also arrived and we brainstormed more. The other teams also pregrouped mostly and had their own twist on the topic. You can find their games [here](https://www.kom.tu-darmstadt.de/news-events/game-jams/ludum-dare-44/). We decided to group together as a team of three. Our final idea was a multiplayer arena top down shooter where you play as a currency symbol. From our manual:
 
-    You and other currencies move around in an arena, firing bullets and dodging enemy projectiles. Besides regular movement, you can also utilize a dash skill to surprise your opponent.
-
-    The strength of your weapons and your own armor scales in real time with the currency strength. The current timepoint is highlighted with a white vertical line and you can see some seconds into the future to plan your next strategic steps.
-
-    It is also possible to change your currency. This is possible in one of the exchange stops which are spread over the map. When you switch to a better currency, you will loose health (but gain weapon strength and armor) - switching to a worse currency will increase your health but lower your strength and armor. But keep in mind that the currencies values keep changing! However, you will keep the health you gained.
-
-    The game always uses three player characters, each playing as an individual currency. In the main menu, you can define how many of them are controlled by humans. You can only change to other currencies which are not already taken by other players.
-
-    Hint: When you play the game for the first time, you should definitely start it in three players mode - even when you want to play alone. The AI is quite powerful and would most likely frustrate you when you directly fight against it. In your next rounds, you can decrease the number of human players to two such that the AI takes over a single player character. If you feel prepared enough after some training, you can switch to the true single player mode.
+> You and other currencies move around in an arena, firing bullets and dodging enemy projectiles. Besides regular movement, you can also utilize a dash skill to surprise your opponent.
+>
+> The strength of your weapons and your own armor scales in real time with the currency strength. The current timepoint is highlighted with a white vertical line and you can see some seconds into the future to plan your next strategic steps.
+>
+> It is also possible to change your currency. This is possible in one of the exchange stops which are spread over the map. When you switch to a better currency, you will loose health (but gain weapon strength and armor) - switching to a worse currency will increase your health but lower your strength and armor. But keep in mind that the currencies values keep changing! However, you will keep the health you gained.
+>
+> The game always uses three player characters, each playing as an individual currency. In the main menu, you can define how many of them are controlled by humans. You can only change to other currencies which are not already taken by other players.
+>
+> Hint: When you play the game for the first time, you should definitely start it in three players mode - even when you want to play alone. The AI is quite powerful and would most likely frustrate you when you directly fight against it. In your next rounds, you can decrease the number of human players to two such that the AI takes over a single player character. If you feel prepared enough after some training, you can switch to the true single player mode.
 
 *mbugert* also brought two Steam controllers which we would use for the multiplayer part. For single player, we wanted to integrate a simple AI.
 
@@ -50,7 +50,7 @@ In retrospective, the programming and collaboration went really smooth, we had e
 
 You can find our game on the [LD44 website](https://ldjam.com/events/ludum-dare/44/cash-clash) and the source code on [Github](https://github.com/jcklie/ludum-dare-44). After we submitted our game, we rated other games, as then your game gets more exposure on the competitions' website. Now we wait 3 weeks for our score.
 
-You can find a gameplay video on Youtube, where I play against some AI players.
+You can find a gameplay video on YouTube, where I play against some AI players.
 
 <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Ydjk-2oP6GQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
