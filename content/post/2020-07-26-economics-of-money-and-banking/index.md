@@ -1,5 +1,5 @@
 ---
-title: "Economics of Money and Banking"
+title: "Course Review: Economics of Money and Banking"
 date: 2020-07-26
 tags: ["economics", "mooc"]
 
