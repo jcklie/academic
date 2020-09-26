@@ -25,9 +25,14 @@ interests:
 - Reinforcement Learning
 - Online Learning
 - Information Retrieval
+- Annotation
+- Chinese
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: TU Darmstadt
+    year: 2018 - now
   - course: MSc in Computer Science
     institution: TU Darmstadt
     year: 2017
