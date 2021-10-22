@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jan-Christoph Klie
+title: "Jan-Christoph Klie"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student Natural Language Processing
+role: "PhD Student Natural Language Processing"
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: TU Darmstadt UKP
+- name: "TU Darmstadt UKP"
   url: "https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/ukp_home_content_staff_1_details_41792.en.jsp"
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.com/citations?user=H_SmU_IAAAAJ&hl=de
 - icon: github
   icon_pack: fab
-  link: github
+  link: https://github.com/jcklie
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,7 +64,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a PhD student on the [INCEpTION project](https://inception-project.github.io/) where I am working on interactive annotation for NLP. Currently I research how several annotation tasks, e.g. creating corpora with linked entities or predicate-argument structures can be supported by interactive machine learning. In my free time, I love to learn Mandarin.
