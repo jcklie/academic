@@ -1,42 +1,39 @@
 ---
 # Display name
-title: "Jan-Christoph Klie"
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: "PhD Student Natural Language Processing"
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: "TU Darmstadt UKP"
-  url: "https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/ukp_home_content_staff_1_details_41792.en.jsp"
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer science PhD student and avid Chinese learner.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Interactive Machine Learning
-- Reinforcement Learning
-- Online Learning
+- Artificial Intelligence
+- Computational Linguistics
 - Information Retrieval
-- Annotation
-- Chinese
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: TU Darmstadt
-    year: 2018 - now
-  - course: MSc in Computer Science
-    institution: TU Darmstadt
-    year: 2017
-  - course: BSc in Computer Science
-    institution: DHBW Mannheim
-    year: 2014
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,5 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student on the [INCEpTION project](https://inception-project.github.io/) where I am working on interactive annotation for NLP. Currently I research how several annotation tasks, e.g. creating corpora with linked entities or predicate-argument structures can be supported by interactive machine learning. In my free time, I love to learn Mandarin.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
