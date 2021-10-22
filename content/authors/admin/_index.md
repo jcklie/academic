@@ -43,15 +43,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: email
-  icon_pack: custom
+- icon: envelope
+  icon_pack: fas
   link: 'mailto:blog@mrklie.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=H_SmU_IAAAAJ&hl=de
 - icon: github
-  icon_pack: custom
-  link: https://github.com/jcklie
+  icon_pack: fab
+  link: github
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
