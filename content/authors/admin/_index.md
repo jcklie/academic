@@ -45,19 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:blog@mrklie.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: "https://scholar.google.com/citations?user=H_SmU_IAAAAJ&hl=de"
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: "https://github.com/jcklie"
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,7 +64,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a PhD student on the [INCEpTION project](https://inception-project.github.io/) where I am working on interactive annotation for NLP. Currently I research how several annotation tasks, e.g. creating corpora with linked entities or predicate-argument structures can be supported by interactive machine learning. In my free time, I love to learn Mandarin.
