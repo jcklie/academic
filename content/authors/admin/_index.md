@@ -15,7 +15,7 @@ role: PhD Student Natural Language Processing
 # Organizations/Affiliations
 organizations:
 - name: TU Darmstadt UKP
-  url: "https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_41792.en.jsp"
+  url: "https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/ukp_home_content_staff_1_details_41792.en.jsp"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a computer science PhD student and Chinese learner.
