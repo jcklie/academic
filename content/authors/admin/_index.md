@@ -69,6 +69,10 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student on the [INCEpTION project](https://inception-project.github.io/) where I am working on interactive annotation for NLP. Currently I research how several annotation tasks, e.g. creating corpora with linked entities or predicate-argument structures can be supported by interactive machine learning. In my free time, I love to learn Mandarin.
 
+Hi! I am Jan, a Ph.D. student at the [Ubiquitous Knowledge Processing (UKP) Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp), Technical University of Darmstadt, Germany. [My research](https://scholar.google.com/citations?user=H_SmU_IAAAAJ&hl=en) focuses on data annotation, especially improving annotation efficiency for NLP. As part of the [INCEpTION project](https://inception-project.github.io/), we build a batteries-included platform for text annotation. I also am an experienced software engineer, especially in backend development as well as a system architect and administrator. In my free time, I love to learn Mandarin.
+
+In addition to my current research, I am also available as an AI consultant. 
+I have a strong background in data annotation including best practices, increasing annotation efficiency and quality, software backend engineering as well as building AI IT infrastructure.
+If that sounds interesting, [then I would be happy hearing from you](https://klie-ai.de)!
 
