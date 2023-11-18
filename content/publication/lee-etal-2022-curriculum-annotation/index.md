@@ -1,37 +1,15 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Annotation Curricula to Implicitly Train Non-Expert Annotators
-subtitle: ''
-summary: ''
 authors:
 - Ji-Ung Lee
 - Jan-Christoph Klie
 - Iryna Gurevych
-tags: []
-categories: []
 date: '2022-06-01'
-lastmod: 2022-11-13T11:34:27+01:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-11-13T10:34:26.955656Z'
+publishDate: '2023-11-18T15:30:38.998626Z'
 publication_types:
-- '2'
+- article-journal
+publication: '*Computational Linguistics*'
+doi: 10.1162/coli_a_00436
 abstract: Annotation studies often require annotators to familiarize themselves with
   the task, its annotation scheme, and the data domain. This can be overwhelming in
   the beginning, mentally taxing, and induce errors into the resulting annotations;
@@ -51,8 +29,6 @@ abstract: Annotation studies often require annotators to familiarize themselves 
   To facilitate future research—for instance, to adapt annotation curricula to specific
   tasks and expert annotation scenarios—all code and data from the user study consisting
   of 2,400 annotations is made available.1
-publication: '*Computational Linguistics*'
-doi: 10.1162/coli_a_00436
 links:
 - name: URL
   url: https://doi.org/10.1162/coli_a_00436
