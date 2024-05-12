@@ -14,11 +14,11 @@ role: PhD Student Natural Language Processing
 
 # Organizations/Affiliations
 organizations:
-- name: TU Darmstadt UKP
-  url: "https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/ukp_home_content_staff_1_details_41792.en.jsp"
+- name: Klie AI
+  url: "https://klie-ai.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer science PhD student and Chinese learner.
+bio: I am a freelance machine learning engineer and Chinese learner.
 
 interests:
 - Interactive Machine Learning
@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: TU Darmstadt
-    year: 2018 - now
+    year: 2018 - 2024
   - course: MSc in Computer Science
     institution: TU Darmstadt
     year: 2017
@@ -70,7 +70,7 @@ user_groups:
 ---
 
 
-Hi! I am Jan, a Ph.D. student at the [Ubiquitous Knowledge Processing (UKP) Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp), Technical University of Darmstadt, Germany. [My research](https://scholar.google.com/citations?user=H_SmU_IAAAAJ&hl=en) focuses on data annotation, especially improving annotation efficiency for NLP. As part of the [INCEpTION project](https://inception-project.github.io/), we build a batteries-included platform for text annotation. I also am an experienced software engineer, especially in backend development as well as a system architect and administrator. In my free time, I love to learn Mandarin.
+Hi! I am Jan. I just defended my Ph.D. thesis which I conducted at the [Ubiquitous Knowledge Processing (UKP) Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp), Technical University of Darmstadt, Germany. [My research](https://scholar.google.com/citations?user=H_SmU_IAAAAJ&hl=en) focuses on data annotation, especially improving annotation efficiency for NLP. As part of the [INCEpTION project](https://inception-project.github.io/), we build a batteries-included platform for text annotation. I also am an experienced software engineer, especially in backend development as well as a system architect and administrator. In my free time, I love to learn Mandarin.
 
 In addition to my current research, I am also available as an AI consultant. 
 I have a strong background in data annotation including best practices, increasing annotation efficiency and quality, software backend engineering as well as building AI IT infrastructure.
