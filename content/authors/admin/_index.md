@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student Natural Language Processing
+role: Freelance machine learning engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ organizations:
   url: "https://klie-ai.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a freelance machine learning engineer and Chinese learner.
+bio: I am a freelance machine learning engineer and avid Chinese learner.
 
 interests:
+- Data Annotation
 - Interactive Machine Learning
 - Reinforcement Learning
-- Online Learning
+- Continual Learning
 - Information Retrieval
-- Annotation
 - Chinese
 
 education:
