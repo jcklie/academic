@@ -1,37 +1,16 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: 'From Zero to Hero: Human-In-The-Loop Entity Linking in Low Resource Domains'
-subtitle: ''
-summary: ''
 authors:
 - Jan-Christoph Klie
 - Richard Eckart de Castilho
 - Iryna Gurevych
-tags: []
-categories: []
 date: '2020-07-01'
-lastmod: 2020-09-26T12:21:21+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-11-13T10:34:27.511179Z'
+publishDate: '2023-11-18T15:30:39.004844Z'
 publication_types:
-- '1'
+- paper-conference
+publication: '*Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics*'
+doi: 10.18653/v1/2020.acl-main.624
 abstract: 'Entity linking (EL) is concerned with disambiguating entity mentions in
   a text against knowledge bases (KB). It is crucial in a considerable number of fields
   like humanities, technical writing and biomedical sciences to enrich texts with
@@ -48,10 +27,6 @@ abstract: 'Entity linking (EL) is concerned with disambiguating entity mentions 
   support; users report that they strongly prefer our system. An open-source and ready-to-use
   implementation based on the text annotation platform INCEpTION (https://inception-project.github.io)
   is made available.'
-publication: '*Proceedings of the 58th Annual Meeting of the Association for Computational
-  Linguistics*'
-url_pdf: https://www.aclweb.org/anthology/2020.acl-main.624
-doi: 10.18653/v1/2020.acl-main.624
 links:
 - name: URL
   url: https://www.aclweb.org/anthology/2020.acl-main.624
